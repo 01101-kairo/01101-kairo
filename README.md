@@ -1,10 +1,6 @@
 ### Oi meu nome é Kairo, no momento so estudando.
-
-<div align="center">
-  <a href="https://github.com/01101-kairo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=drak"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=dracula&show_icons=true)
 
 ##
 
