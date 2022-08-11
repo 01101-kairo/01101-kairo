@@ -10,8 +10,8 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=dracula&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=dracula&show_icons=true)
+![01101-kairo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=dracula&show_icons=true)
+![01101-kairo GitHub stats](https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=dracula&show_icons=true)
 
 ##
 
