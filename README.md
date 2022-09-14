@@ -8,8 +8,8 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-<br>  
+</div><br>  
+
 <div> 
   <a href="https://github.com/01101-kairo/Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=dracula&show_icons=true"/>
@@ -17,8 +17,8 @@
   <a href="https://github.com/01101-kairo/Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
   </a>
-</div>
-<br>
+</div><br>
+
 <h2>formas de contato:</h2>
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5599982455137"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
