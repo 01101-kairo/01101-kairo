@@ -12,10 +12,10 @@
 
 <div> 
   <a href="https://github.com/01101-kairo/Web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=dracula&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=onedark&show_icons=true"/>
   </a>
   <a href="https://github.com/01101-kairo/Web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=onedark&show_icons=true"/>
   </a>
 </div><br>
 
