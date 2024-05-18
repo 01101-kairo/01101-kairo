@@ -6,7 +6,7 @@
     <img align="center" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
 </div>
 
-<p align="left">My name is Kairo... and I'm a full stack js..., from Brazil....</p>
+<p align="left">My name is Kairo and I'm a full stack js, from Brazil.</p>
 
 <h2 align="left">Follow me on:</h2>
 <div>
