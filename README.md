@@ -1,18 +1,48 @@
-<h1>Oi meu nome é Kairo, no momento so estudando.</h1>
+<div> 
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--https://github.com/anuraghazra/github-readme-stats.git-->
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/vim-00aa00?style=for-the-badge&logo=vim&logoColor=white">
-  <!--<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">-->
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div><br>  
+</div>
+  
+###
 
-<div> 
-  <a href="https://github.com/01101-kairo/Web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&theme=onedark&show_icons=true"/>
-  </a>
+<p align="left">My name is Kairo... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+<!--https://github.com/anuraghazra/github-readme-stats.git-->
   <a href="https://github.com/01101-kairo/Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01101-kairo&layout=compact&langs_count=7&theme=onedark&show_icons=true"/>
   </a>
@@ -20,7 +50,6 @@
 
 <h2>formas de contato:</h2>
 <div> 
-  <a href="https://api.whatsapp.com/send?phone=5599982455137"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/kairokosta"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <!--- <a href="https://instagram.com/kairo._.costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --->
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTJnWvwGClHWxJHwxBGTKpsrtLbBsNFlHHsHQqxsZzwKpMCCCLxTgssGJWPlhMlTJSxckg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
