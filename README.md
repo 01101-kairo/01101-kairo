@@ -6,7 +6,7 @@
 
 <p align="left">
 ✨ I know programming since high school in 2018 <br>
-📚 I'm currently learning sass <br>
+📚 I'm currently learning English and every day I like to practice my logic. <br>
 🎯 Objectives: working abroad, experiencing new cultures <br>
 🎲 Fun fact: I program in neovim (vim fork) <br>
 </p>
