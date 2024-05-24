@@ -37,7 +37,7 @@
     </a>
 </div>
 
-<h2 align="left">Follow me on:</h2>
+<!-- h2 align="left">Follow me on:</h2>
 <div>
   <a href="https://instagram.com/kairo._.costa" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/kairo-costa-front-end/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <!--a href="">
+  <a href="">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
-  </a-->
-</div>
+  </a>
+</div -->
