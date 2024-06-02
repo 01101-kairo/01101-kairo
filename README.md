@@ -29,3 +29,9 @@
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
 </div>
+
+<!-- div>
+    <a href="https://github.com/01101-kairo">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=01101-kairo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+</div -->
